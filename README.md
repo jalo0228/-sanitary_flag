@@ -1,3 +1,3 @@
 ## sanitary_flag
-2025 FAe PSU Project 
+2025 FA PSU Project 
 Making Chrome Extension using Yelp Academic DataSet
